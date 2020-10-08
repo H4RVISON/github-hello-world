@@ -26,6 +26,9 @@
 *.a
 *.lib
 
+# python files
+.py
+
 # Executables
 *.exe
 *.out
